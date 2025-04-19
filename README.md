@@ -31,8 +31,9 @@ I enjoy building efficient, scalable, and user-friendly mobile applications whil
 - 🎯 **[YummLyst](https://github.com/Alikotb/Yumlyst)** – A meal recipe app with detailed meal info, video tutorials, and meal planning features.  
 - 🎮 **[XO Game - Server](https://github.com/Alikotb/TicTacToeServer)** – A multiplayer Tic-Tac-Toe game server.  
 - 🎮 **[XO Game - Client](https://github.com/Alikotb/TicTacToe)** – The client-side implementation of Tic-Tac-Toe.  
+- 🌩 **[Thundora](https://github.com/Alikotb/Thundora)** – A modern weather app built with Jetpack Compose and MVVM architecture. Features include weather-based alarms, favorite locations, and a sleek UI with animated splash screen.
 
----
+
 
 ## 📊 GitHub Stats
 
