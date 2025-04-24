@@ -1,6 +1,12 @@
-# Welcome to Ali Kotb's Profile! 👋
-
-![Profile Views](https://komarev.com/ghpvc/?username=AliKotb&label=Profile%20views&color=0e75b6&style=flat)
+<h3 align="center">
+  Welcome to Ali Kotb's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Android%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AliKotb&label=Profile%20views&color=0e75b6&style=flat" alt="AliKotb" /> </p>
 
 <img src="https://avatars.githubusercontent.com/u/74043065?s=400&u=d072db059e477b9742423f63d17d93d6c4ea1abc&v=4" alt="Ali Kotb" width="200" align="right">
 
@@ -13,7 +19,14 @@ I enjoy building efficient, scalable, and user-friendly mobile applications whil
 
 ## 🛠 Technologies & Tools
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,androidstudio,firebase,git,github" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,dart,flutter,androidstudio,eclipse,vscode,visualstudio,firebase,git,github" /> 
+    <img src="https://skillicons.dev/icons?i=js,html,css" />
+
+</p>
+
+
+
 
 
 🔹 **Additional Technologies:**  
