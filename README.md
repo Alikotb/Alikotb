@@ -13,14 +13,15 @@ I enjoy building efficient, scalable, and user-friendly mobile applications whil
 
 ## 🛠 Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,androidstudio,xml,json,firebase,retrofit,git,github" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=java,kotlin,dart,flutter,androidstudio,firebase,git,github" /> </p>
+
 
 🔹 **Additional Technologies:**  
 ✔ **Room Database** (SQLite)  
 ✔ **RxJava**  
 ✔ **MVP Architecture**  
+✔ **MVVM Architecture**  
+✔ **Coroutines**  
 ✔ **JavaFX**  
 ✔ **RESTful APIs**  
 
