@@ -42,6 +42,7 @@ I enjoy building efficient, scalable, and user-friendly mobile applications whil
 
 ## 📌 Featured Projects
 
+- 🕋 **[Anees](https://github.com/Alikotb/Anees)** – Anees is a comprehensive Islamic app designed to provide a seamless spiritual experience for Muslims, offering a variety of features to help with daily worship and learning.
 - 🎯 **[YummLyst](https://github.com/Alikotb/Yumlyst)** – A meal recipe app with detailed meal info, video tutorials, and meal planning features.  
 - 🎮 **[XO Game - Server](https://github.com/Alikotb/TicTacToeServer)** – A multiplayer Tic-Tac-Toe game server.  
 - 🎮 **[XO Game - Client](https://github.com/Alikotb/TicTacToe)** – The client-side implementation of Tic-Tac-Toe.  
