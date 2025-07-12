@@ -48,6 +48,7 @@ I enjoy building efficient, scalable, and user-friendly mobile applications whil
 - 🎮 **[XO Game - Client](https://github.com/Alikotb/TicTacToe)** – The client-side implementation of Tic-Tac-Toe.  
 - 🌩 **[Thundora](https://github.com/Alikotb/Thundora)** – A modern weather app built with Jetpack Compose and MVVM architecture. Features include weather-based alarms, favorite locations, and a sleek UI with animated splash screen.
 - 📝 **[Noto](https://github.com/Alikotb/notes)** – A clean and intuitive note-taking app built with Flutter using MVVM and BLoC. Features light/dark mode, SQLite local storage, rich text formatting, and categorized note management.
+- 🎵 **[Tunoo](https://github.com/Alikotb/MediaPlayer)** – a sleek and modern music player app designed for smooth and enjoyable listening. Built with Kotlin, it offers powerful features with an intuitive interface, making music management effortless and fun.
 
 
 
