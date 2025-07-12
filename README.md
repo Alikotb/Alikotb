@@ -65,13 +65,13 @@ I enjoy building efficient, scalable, and user-friendly mobile applications whil
 ## 🌍 Let's Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdelaziz-maher-9985b2229/">
+  <a href="https://www.linkedin.com/in/alikotb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:abdelazizmaher17499@gmail.com">
+  <a href="mailto:alikotb38@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://leetcode.com/u/AbdelazizMaher/">
+  <a href="https://leetcode.com/u/AliKotb/">
     <img src="https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=orange" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerrank.com/profile/alikotb38">
