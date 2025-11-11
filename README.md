@@ -39,7 +39,7 @@ I enjoy building efficient, scalable, and user-friendly mobile applications whil
 
 ## 📌 Featured Projects
 
-- 🕋 **[Anees](https://github.com/Alikotb/Anees)** – Anees is a comprehensive Islamic app designed to provide a seamless spiritual experience for Muslims, offering a variety of features to help with daily worship and learning.
+- 🕋 **[Anees](https://play.google.com/store/apps/details?id=com.muslim.anees)** – Anees is a comprehensive Islamic app designed to provide a seamless spiritual experience for Muslims, offering a variety of features to help with daily worship and learning.
 - 🎵 **[Tunoo](https://github.com/Alikotb/MediaPlayer)** – a sleek and modern music player app designed for smooth and enjoyable listening. Built with Kotlin, it offers powerful features with an intuitive interface, making music management effortless and fun.
 - 📝 **[Noto](https://github.com/Alikotb/notes)** – A clean and intuitive note-taking app built with Flutter using MVVM and BLoC. Features light/dark mode, SQLite local storage, rich text formatting, and categorized note management.
 - 🌩 **[Thundora](https://github.com/Alikotb/Thundora)** – A modern weather app built with Jetpack Compose and MVVM architecture. Features include weather-based alarms, favorite locations, and a sleek UI with animated splash screen.
